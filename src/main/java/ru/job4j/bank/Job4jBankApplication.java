@@ -11,6 +11,7 @@ public class Job4jBankApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(Job4jBankApplication.class, args);
+        System.out.println("Start service /bank /user /account on http://localhost:8080/");
     }
 
 }
