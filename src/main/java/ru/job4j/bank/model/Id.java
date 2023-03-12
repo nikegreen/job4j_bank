@@ -2,6 +2,9 @@ package ru.job4j.bank.model;
 
 import lombok.Data;
 
+/**
+ * Класс идентификатор
+ */
 @Data
 public abstract class Id {
 
